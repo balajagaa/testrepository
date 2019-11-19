@@ -1,4 +1,4 @@
 steps:
-  - label: ":python:"
+  - label: ":python: sampletest script"
     commands:
       - python sampletest.py
